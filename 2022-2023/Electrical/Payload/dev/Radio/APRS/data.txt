@@ -1,0 +1,3 @@
+Enabled demodulators: AFSK1200
+AFSK1200: fm KD9THD-7 to APDR16-0 via WIDE1-1,WIDE2-2 UI^ pid=F0
+:KD9THD-7 :A1 B2 C3{19

@@ -1,0 +1,16 @@
+[StartTime]
+NoseCone CRFINAL-Static groove.MFC=2s
+[SolverState]
+NoseCone CRFINAL-Static groove.MFC=2
+[MainFrame]
+NoseCone CRFINAL-Static groove.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHHBAAAAAELDAAAAAKECAAAAA
+[ShowMin]
+NoseCone CRFINAL-Static groove.MFC=No
+[SolverType]
+NoseCone CRFINAL-Static groove.MFC=Linear Analysis
+[StudyType]
+NoseCone CRFINAL-Static groove.MFC=0
+[StudyName]
+NoseCone CRFINAL-Static groove.MFC=Static groove
+[Solver]
+NoseCone CRFINAL-Static groove.MFC=Sparse
